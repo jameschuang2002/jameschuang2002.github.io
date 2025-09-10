@@ -30,7 +30,7 @@ Before coming to the United States, I completed my secondary education in Taiwan
 
 My recent projects explore techniques to extract sufficiently accurate keystroke timing using cache side-channel attacks for reconstruction on Intel and Apple processors. In my spare time, I enjoy reading and exploring other microarchitectural vulnerabilities.  
 
-Contacts: lchuang \[at\] cs \[dot\] unc \[dot\] edu. You can find my [CV](/assets/pdf/cv.pdf) here.
+**Contact**: *lchuang \[at\] cs \[dot\] unc \[dot\] edu*. You can find my [CV](/assets/pdf/cv.pdf) here.
 
 FB 341, 201 South Columbia Street, Chapel Hill, North Carolina 27514
 
