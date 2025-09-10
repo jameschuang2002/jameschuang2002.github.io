@@ -1,13 +1,13 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: UNC Chapel Hill
+subtitle: Department of Computer Science, UNC Chapel Hill
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
     
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -24,13 +24,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a 2nd year M.S. student in computer science at the University of North Carolina at Chapel Hill advised by Prof. Andrew Kwong. My research interests lies computer architecture and security with a focus on microarchitectural side-channel attacks and defenses. 
+I am a 2nd year M.S. student in computer science at the University of North Carolina at Chapel Hill advised by [Prof. Andrew Kwong](https://andrewkwong.org/). My research interests lies computer architecture and security with a focus on microarchitectural side-channel attacks and defenses. 
 
 Before coming to the United States, I completed my secondary education in Taiwan and graduated from the University of British Columbia (UBC) in 2020 with a Bachelor's in Applied Science (B.ASc.) majoring in Computer Engineering. 
 
 My recent projects explore techniques to extract sufficiently accurate keystroke timing using cache side-channel attacks for reconstruction on Intel and Apple processors. In my spare time, I enjoy reading and exploring other microarchitectural vulnerabilities.  
 
-Contacts: lchuang \[at\] cs \[dot\] unc \[dot\] edu
+Contacts: lchuang \[at\] cs \[dot\] unc \[dot\] edu. You can find my [CV](/assets/pdf/cv.pdf) here.
 
-Fred Brooks Building 341, 201 South Columbia Street, Chapel Hill, North Carolina 27514
+FB 341, 201 South Columbia Street, Chapel Hill, North Carolina 27514
 
