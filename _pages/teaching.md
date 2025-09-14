@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /teaching/
-title: Teaching
+permalink: /teaching-assistantships/
+title: Teaching Assistantships
 description: 
 nav: true
 nav_order: 6
