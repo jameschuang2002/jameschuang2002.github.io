@@ -23,12 +23,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/research/";
           },
-        },{id: "nav-teaching",
-          title: "Teaching",
+        },{id: "nav-teaching-assistantships",
+          title: "Teaching Assistantships",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/teaching/";
+            window.location.href = "/teaching-assistantships/";
           },
         },{id: "news-keytar-accepted-to-appear-at-ieee-s-amp-p-2026",
           title: 'KeyTAR accepted to appear at IEEE S&amp;amp;P 2026',
