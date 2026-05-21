@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Department of Computer Science, UNC Chapel Hill
+subtitle: Department of Electrical and Computer Engineering, University of British Columbia
 
 profile:
   align: right
@@ -24,13 +24,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a 2nd year M.S. student in computer science at the University of North Carolina at Chapel Hill advised by [Prof. Andrew Kwong](https://andrewkwong.org/). My research interests lies computer architecture and security with a focus on microarchitectural side-channel attacks and defenses. 
+I am an incoming ECE PhD Student at UBC advised by [Prof. Prashant Nair](https://prashantnair.bitbucket.io/). My research interests lies computer architecture and security with a focus on microarchitectural side-channel attacks and defenses. 
 
-Before coming to the United States, I completed my secondary education in Taiwan and graduated from the University of British Columbia (UBC) in 2020 with a Bachelor's in Applied Science (B.ASc.) majoring in Computer Engineering. 
+I completed my Masters degree at UNC Chapel Hill advised by [Prof. Andrew Kwong](https://andrewkwong.org/) and received my Bachelor's degree from UBC.  
 
-My recent projects explore techniques to extract sufficiently accurate keystroke timing using cache side-channel attacks for reconstruction on Intel and Apple processors. In my spare time, I enjoy reading and exploring other microarchitectural vulnerabilities.  
 
-**Contact**: *lchuang \[at\] cs \[dot\] unc \[dot\] edu*. You can find my [CV](/assets/pdf/cv.pdf) here.
-
-FB 341, 201 South Columbia Street, Chapel Hill, North Carolina 27514
+**Contact**: *jameschuang \[at\] ece \[dot\] ubc \[dot\] ca*. You can find my [CV](/assets/pdf/cv.pdf) here.
 
